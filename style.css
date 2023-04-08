@@ -19,3 +19,55 @@
   backdrop-filter: blur(5px); /* apply the blur */
   pointer-events: none; /* make the overlay click-through */
 }
+
+.clock {
+  font-family: "Poppins", sans-serif;
+  font-size: 3rem;
+  font-weight: 700;
+  color: #fff;
+  text-align: left;
+  margin-top: 10rem;
+  margin-left: 10rem;
+
+  text-shadow: 0 0 1px #fff;
+}
+
+.weather {
+  font-family: "Poppins", sans-serif;
+  font-size: 1.5rem;
+  font-weight: 400;
+  color: #fff;
+  text-align: left;
+  margin-top: 1rem;
+  margin-left: 10rem;
+
+  text-shadow: 0 0 1px #fff;
+}
+
+.greeting-wrapper {
+  font-family: "Poppins", sans-serif;
+  font-size: 1.5rem;
+  font-weight: 400;
+  color: #fff;
+  text-align: left;
+  margin-top: 1rem;
+  margin-left: 10rem;
+
+  text-shadow: 0 0 1px #fff;
+}
+
+.username {
+  font-weight: 700;
+}
+
+.quote {
+  font-family: "Poppins", sans-serif;
+  font-size: 1rem;
+  font-weight: 400;
+  color: #fff;
+  text-align: left;
+  margin-top: 1rem;
+  margin-left: 10rem;
+
+  text-shadow: 0 0 1px #fff;
+}
